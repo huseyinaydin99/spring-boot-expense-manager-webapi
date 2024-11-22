@@ -82,8 +82,8 @@ localhost:8080/api/v1/expense/?expenseId=1 DELETE -> 1 ID'li harcama kaydını s
 localhost:8080/api/v1/profile GET --> login olan kullanıcının kaydını geriye döndürür.
 localhost:8080/api/v1/profile PUT --> adresi girilir.
 {
-    "name": "Husamettin",
-    "email": "husamettinaydin99@gmail.com",
+    "name": "hasan",
+    "email": "hasanaydin99@gmail.com",
     "password": "123Aa**"
 }
 ilgili kullanıcının JSON verisi girilerekten güncellemesi yapılır.
@@ -92,3 +92,7 @@ localhost:8080/api/v1/deactivate DELETE adresi girilir ve send butonuna basınca
 ```
 
 ### Görseller
+![270783024-6db29f49-00a5-41b5-83f3-a56e831da59c](https://github.com/user-attachments/assets/4369f912-d140-48a6-bf4f-3c7ce7c7e0ef)
+![270782968-1b4d7c82-aa29-409e-8bce-f66467f4e6a6](https://github.com/user-attachments/assets/2bd1ff91-dfbe-4b4e-b7a3-590845d58e07)
+![270782637-7ea26abe-8b9e-45f7-9f3b-0279ac0b471f](https://github.com/user-attachments/assets/8809c7e8-a7da-468a-ade2-772cde6c7916)
+![270782489-e8b56ff7-a370-40d0-8b06-80b07f3dc7c3](https://github.com/user-attachments/assets/0c4f3630-f228-4f14-9074-cb780e77b4c4)
